@@ -1,1 +1,28 @@
 /* Add CSS Styling */
+.highlight {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: #FF6666;
+}
+#main {
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-weight: 600;
+    padding: 5px;
+    color:hsl(240, 100%, 50%)
+}
+
+.subsection {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    padding: 5px;
+    background-color: rgb(255, 192, 203);
+}
+
+#secondary {
+    font-size: 24px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    padding: 5px;
+    background-color: hsl(120, 100%, 75%);
+}
